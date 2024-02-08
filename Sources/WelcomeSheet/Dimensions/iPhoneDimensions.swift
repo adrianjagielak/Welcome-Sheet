@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct iPhoneDimensions {
-    static let screenHeight = UIScreen.main.bounds.height
+    static let screenHeight = 932
     
     static var spacing: CGFloat {
         return 60
